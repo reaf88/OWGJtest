@@ -3,7 +3,7 @@
 "productName": "NCS_nazo",
 "productVersion": "1.0",
 "dataUrl": "NCS_nazotoki.data.unityweb",
-"wasmCodeUrl": "NCS_nazotoki.wasm",
+"wasmCodeUrl": "NCS_nazotoki.wasm.code.unityweb",
 "wasmFrameworkUrl": "NCS_nazotoki.wasm.framework.unityweb",
 "graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
 "webglContextAttributes": {"preserveDrawingBuffer": false},
